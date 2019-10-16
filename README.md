@@ -1,2 +1,3 @@
-# KiloConverter
-A Java programme that converts user input from kilometres to miles. 
+# CreditCard
+A Java programme that vakidates a credit card number with Luhn Algorithm
+
